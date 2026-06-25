@@ -1,15 +1,7 @@
-<img width="1408" height="897" alt="image" src="https://github.com/user-attachments/assets/c1151902-dbcd-4cbb-bd88-ce6c7becc97f" /># 🌌 SkyDome
-<img width="1402" height="911" alt="image" src="https://github.com/user-attachments/assets/62f642aa-ebfd-4526-94a9-3370d2f6e0c4" />
-<img width="1415" height="882" alt="image" src="https://github.com/user-attachments/assets/93e3ef1a-9b9a-4359-8690-00a8e6c29d4d" />
-<img width="1375" height="895" alt="image" src="https://github.com/user-attachments/assets/47f14dcd-895f-47f8-b34c-afc1feca3753" />
-<img width="1398" height="881" alt="image" src="https://github.com/user-attachments/assets/66698f9a-da74-4bc5-a94e-b8a359770a5f" />
-<img width="1307" height="707" alt="image" src="https://github.com/user-attachments/assets/916847f3-0c6d-486b-bd72-15a2e18746a9" />
+                                    🌌 SkyDome
+**Celestial Observation Platform** built for the **AstralWeb Innovate 2026**
 
-
-**Interactive Astronomy Explorer** built for the **AstralWeb Hackathon 2026**
-
-SkyDome is a web-based astronomy explorer that allows users to discover what is visible in the night sky from any location on Earth. Users can search any city, use their current GPS location, view visible planets and constellations, track the International Space Station (ISS), and explore a simplified real-time Solar System Radar.
-
+SkyDome is a Celestial Observation Web Platform developed for the AstralWeb Innovate. It allows users to explore the night sky from any location on Earth by searching a city, selecting a point on an interactive map, or using GPS. The application displays visible planets, constellations, and real-time International Space Station (ISS) information for the selected location. It also includes a responsive Solar System Radar that visualizes the Sun and all eight planets with animated orbital motion. Built with React, Vite, Leaflet, Axios, and OpenStreetMap APIs, SkyDome aims to make astronomy more accessible through an intuitive and engaging user experience.
 ---
 
 ## 🚀 Live Demo
@@ -19,6 +11,13 @@ SkyDome is a web-based astronomy explorer that allows users to discover what is 
 🔗 **GitHub Repository:** https://github.com/prakharnag637/SkyDome
 
 ---
+##Screenshots:
+<img width="1408" height="897" alt="image" src="https://github.com/user-attachments/assets/c1151902-dbcd-4cbb-bd88-ce6c7becc97f" /># 
+<img width="1402" height="911" alt="image" src="https://github.com/user-attachments/assets/62f642aa-ebfd-4526-94a9-3370d2f6e0c4" />
+<img width="1415" height="882" alt="image" src="https://github.com/user-attachments/assets/93e3ef1a-9b9a-4359-8690-00a8e6c29d4d" />
+<img width="1375" height="895" alt="image" src="https://github.com/user-attachments/assets/47f14dcd-895f-47f8-b34c-afc1feca3753" />
+<img width="1398" height="881" alt="image" src="https://github.com/user-attachments/assets/66698f9a-da74-4bc5-a94e-b8a359770a5f" />
+<img width="1307" height="707" alt="image" src="https://github.com/user-attachments/assets/916847f3-0c6d-486b-bd72-15a2e18746a9" />
 
 ## 🌟 Highlights
 
@@ -84,7 +83,6 @@ SkyDome is a web-based astronomy explorer that allows users to discover what is 
 - Axios
 
 ## Deployment
-- GitHub
 - Vercel
 
 ---
@@ -201,13 +199,13 @@ SkyDome/
 
 # 🏆 Hackathon
 
-Developed for the **AstralWeb Hackathon 2026**.
+Developed for the **AstralWeb Innovate 2026**.
 
 ---
 
 # 📄 License
 
-This project was developed as part of the AstralWeb Hackathon and is intended for educational and demonstration purposes.
+This project was developed as part of the AstralWeb Innovate and is intended for educational and demonstration purposes.
 ---
 
 ## ⭐ If you like this project, consider giving it a star!
