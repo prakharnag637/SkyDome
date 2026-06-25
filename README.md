@@ -1,5 +1,5 @@
 <h1>🌌 SkyDome:
-**Celestial Observation Platform** built for the **AstralWeb Innovate 2026**</h1>
+Celestial Observation Platform** built for the **AstralWeb Innovate 2026</h1>
 
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white)
