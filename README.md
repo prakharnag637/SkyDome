@@ -1,7 +1,7 @@
-                                    🌌 SkyDome
+🌌 SkyDome
 **Celestial Observation Platform** built for the **AstralWeb Innovate 2026**
 
-SkyDome is a Celestial Observation Web Platform developed for the AstralWeb Innovate. It allows users to explore the night sky from any location on Earth by searching a city, selecting a point on an interactive map, or using GPS. The application displays visible planets, constellations, and real-time International Space Station (ISS) information for the selected location. It also includes a responsive Solar System Radar that visualizes the Sun and all eight planets with animated orbital motion. Built with React, Vite, Leaflet, Axios, and OpenStreetMap APIs, SkyDome aims to make astronomy more accessible through an intuitive and engaging user experience.
+SkyDome is Celestial Observation Web Platform developed for the AstralWeb Innovate. It allows users to explore the night sky from any location on Earth by searching a city, selecting a point on an interactive map, or using GPS. The application displays visible planets, constellations, and real-time International Space Station (ISS) information for the selected location. It also includes a responsive Solar System Radar that visualizes the Sun and all eight planets with animated orbital motion. Built with React, Vite, Leaflet, Axios, and OpenStreetMap APIs, SkyDome aims to make astronomy more accessible through an intuitive and engaging user experience.
 ---
 
 ## 🚀 Live Demo
