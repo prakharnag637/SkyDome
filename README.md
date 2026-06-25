@@ -1,5 +1,6 @@
-**🌌 SkyDome:
-**Celestial Observation Platform** built for the **AstralWeb Innovate 2026****
+🌌 SkyDome:
+**Celestial Observation Platform** built for the **AstralWeb Innovate 2026**
+
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
