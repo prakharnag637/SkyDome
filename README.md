@@ -20,6 +20,14 @@ SkyDome is a web-based astronomy explorer that allows users to discover what is 
 
 ---
 
+## 🌟 Highlights
+
+- 🌍 Interactive Earth Map
+- 🛰️ Live ISS Tracking
+- 🌌 Visible Planets & Constellations
+- 🪐 Animated Solar System Radar
+- 📱 Fully Responsive Design
+
 # ✨ Features
 
 ### 🌍 Interactive Earth Map
@@ -193,14 +201,13 @@ SkyDome/
 
 # 🏆 Hackathon
 
-Developed for the **AstralWeb Hackathon 2025**.
+Developed for the **AstralWeb Hackathon 2026**.
 
 ---
 
 # 📄 License
 
-This project is created for educational and hackathon purposes.
-
+This project was developed as part of the AstralWeb Hackathon and is intended for educational and demonstration purposes.
 ---
 
 ## ⭐ If you like this project, consider giving it a star!
