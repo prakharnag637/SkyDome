@@ -1,0 +1,105 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+
+background:
+radial-gradient(circle at 75% 20%, rgba(95,168,255,0.12), transparent 35%),
+radial-gradient(circle at 25% 80%, rgba(120,80,255,0.10), transparent 40%),
+
+
+radial-gradient(circle at 20% 20%, rgba(255,255,255,0.18) 1px, transparent 1px),
+radial-gradient(circle at 80% 30%, rgba(255,255,255,0.18) 1px, transparent 1px),
+radial-gradient(circle at 40% 80%, rgba(255,255,255,0.18) 1px, transparent 1px),
+radial-gradient(circle at 70% 70%, rgba(255,255,255,0.18) 1px, transparent 1px),
+radial-gradient(circle at 10% 60%, rgba(255,255,255,0.12) 1px, transparent 1px),
+radial-gradient(circle at 90% 10%, rgba(255,255,255,0.12) 1px, transparent 1px),
+
+linear-gradient(
+  180deg,
+  #020824 0%,
+  #01061a 100%
+);
+
+
+background-size:
+auto,
+auto,
+300px 300px,
+400px 400px,
+500px 500px,
+600px 600px,
+700px 700px,
+800px 800px,
+100% 100%;
+
+color: white;
+min-height: 100vh;
+}
+
+h1 {
+text-align: center;
+color: #60a5fa;
+}
+
+h2 {
+text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+button {
+background: #2563eb;
+color: white;
+border: none;
+padding: 12px 24px;
+margin: 5px;
+border-radius: 10px;
+cursor: pointer;
+font-size: 16px;
+
+transition: all 0.3s ease;
+}
+
+button:hover {
+background: #3b82f6;
+transform: scale(1.05);
+box-shadow: 0 0 25px rgba(95,168,255,0.7);
+}
+
+input {
+padding: 10px;
+border-radius: 8px;
+border: none;
+width: 220px;
+font-size: 15px;
+}
+
+.leaflet-container {
+border-radius: 15px;
+}
+
+@keyframes rotate {
+from {
+transform: rotate(0deg);
+}
+
+to {
+transform: rotate(360deg);
+}
+}
+
+@keyframes float {
+0% {
+transform: translateY(0px);
+}
+
+50% {
+transform: translateY(-8px);
+}
+
+100% {
+transform: translateY(0px);
+}
+}
